@@ -14,3 +14,14 @@ conda create -n venv python=3.8 -y
 conda activate venv/
 
 pip install -r requirements.txt
+
+# work flow for data ingestion
+constant
+config_entity
+artifact_entity
+conponent
+pipeline
+app.py / demo.py
+
+# Export environment variable
+export MONGODB_URL = "mongodb+srv://remaining string from mongodb to connect to cluster"
